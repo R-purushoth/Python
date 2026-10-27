@@ -1,0 +1,15 @@
+Variables & data types
+if/else
+for / while
+Functions
+Lists, tuples, sets, dictionaries
+String manipulation
+Exception handling
+File handling
+OOP
+Modules & packages
+pip and virtual environments
+JSON
+REST API requests
+async/await basics
+Git & GitHub
